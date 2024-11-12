@@ -191,7 +191,7 @@ CEO of AnantiX</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    18.5k added, 9.56k removed
+                                    77.2k added, 61k removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@ CEO of AnantiX</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    481 views in last two weeks
+                                    494 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1736,6 +1736,7 @@ CEO of AnantiX</div>
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFBP/EAC8QAAEDAgUCAwcFAAAAAAAAAAECAwQFEQAGEiExUWEHQXETFBUiJJGhIzJCgbH/xAAXAQEBAQEAAAAAAAAAAAAAAAAABAEF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAIBAxExIf/aAAwDAQACEQMRAD8AzI8dcyqOx2FNTIDP1JClBetF/wBgv0ItbtifZ5r7ycyTDD2aSQ2GibDYAL2O251/fHfnBJydmxx6jvuu0+ewmSqzm6C589rjuAQehGCFFnU/4i58QaU66tQ0FRuE83vcHfz4xKlOTsmrG+CbL1LqEile3qTLa4ZTdhh1IU4RcEkE+nHb+8JpVNjqes2lSEpSEhNh8u3GNCgrg1JgKiBaGI5ADDZ2bc40Hbyt0xozqRCefvJa0rSkACyuDv174gtulWwYRutvOUaLV6VOa+vZd92UfIaV8/j84F+0DhuecU3x1bSMwOyQP1nw2pxXU6dP+AYl7eOynAJcq1SfQ5Iq0Jl1yNGUlMgIuE6V3FlkcXsbYrDWeqHPQJBecRq/gpsAp7d/XGB4BnVV6vGWAthcUKUhW4UQva/3OBealBvMtURHQiO0JCgltkaUp9BiO1EtslZjgP/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QALBAAAQIFAwQABQUAAAAAAAAAAQIDAAQFESESEzEGQUJRBxQjcaEzYWKxwf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAQMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxEhMUH/2gAMAwEAAhEDEQA/ACnSvXsxN0NuTcW6htlKGUpCgNxd78HiMomJHqqs1TqB+i1At06XU4spdeAaNsltGrBI9fb2IDSk9MBvaZeQhFyNw3/P7wToHXlTpPTs/QzJtOsKdcKnQo3RrGRbyB7RmU1ShrSGVKLfWHOn3qwKAifrMut/U9tqWlICAQbgHTjI9QwMzTDjYLbcvbvrTm/P+xnMn1A+qnuU9ifmJfedD7bSSNt23gvvr4sRzwfcXKpOOyz7YW4wtLjaXG3SshLqDwpNu3bOQQQcgxFtct1BKxYLrWlwYTo1jP3jim7YefmHiQ5ZtGn3yL+/D8xE0opDdj4xLTzusuBYBOknV35Cv7h9cihb6U6lLrbG9K7aEIVgbljrv4DnGOId6N8SKjISCJebZpD7wJUpU3Ty4u6jc5BAFySeMkk94V1/WmPl1/plOvHN7RG1RpZ9G44XSo/zimb3jCTcfD//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABQYCAwQH/8QAKxAAAgEDAwMBCAMAAAAAAAAAAQMCBAURAAYhEjFhcQcTIkJRgZGhFjKx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwYBAgX/xAAhEQABBAICAgMAAAAAAAAAAAACAAEDBBExBRITIUFRcf/aAAwDAQACEQMRAD8AloIqXVCqejgGVLpBa4ngZ8+MaYuWwLzZ7ey4MvdFUzHIpGK92D4DM8H1Gtd42+m7Rgioc2lhkkMT3icED/dGXH2d2tNBT0VQxxUosqJXEMwyWQPhMDHHTx9T+9E5izLDYHqeGx9K/F1wngLI5f8AVQ0FyZKyICTALaBP+vP31wNiuTCZAZ9NZbboSuz0aBzBa+CPoedORt8cfJ+dMEb9Y2J/lYJFg3ZlL7n3vaBQtTaQypqWRIXMr6IDyc8/bGpban8m3c02KF3MKYRLOh08CYB7efTQRXFdYjpGOvGf1p/a9Syi3rZ203TCRqVwOBwRKQjL8jOlS9aOwLkWx0mGnEMBMI6LarbRf5bfv1XYd111JJyekLq1QMQcjPxjsO41U2fbVqu8autZVvUptROSQRwVnBBHjk68c9qsjLft/wA/LWMgPQYxp/Yd0qHbeXBpEoonJUMk8RBzjv5OpOwU8AeX27IY1wjlJ4/WV//Z" width="28" height="28" alt="" />
@@ -1759,7 +1760,6 @@ CEO of AnantiX</div>
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAgMH/8QALhAAAQMCBQMCBAcAAAAAAAAAAQIDBAURAAYSITETQVEiYQcUFTJCUnGBkbHh/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAAL/xAAjEQABAwMCBwAAAAAAAAAAAAABAAMEAhIhEZETIjFRYXGB/9oADAMBAAIRAxEAPwBu00p9xx0tgdUAjVa42574wrExENLSHHnGg44Oo62nWW09zbDSm0t4RnXUOIUhsWIJOwAJvufH9YR02oOzHpDn0WTN13aZcZcCC2DuAbkfkJ/c4o33AKCo+AwXHQSMDKeZUjycwR2AwlwLUDqU4PtF+TjptJo8duA0mEW3GwN1ra1FR8+3bbE5SqnT8u5IpKovzYE+7gdAbJBHIUSRt274oKE9ArcZ2Wy5KQOoUkIKEi9gdgCfPnC9x81i0HQDf6m8eI1Q5VURcT3xp6UPQ+m+mdEkRn3WXA2VqbtYJF78ke1rd/4LmBlRENUYxYclsOrQSC4NwhO34uR6vHv4xS0WlxWKQ1ob3B13PJNjzgOtSHF/E3LkImzDcZ+SAOSvSU7+1saTL5jaFxChaUC87eUNGhPQaXGDDbzEbS3ZIk6QNwVEDV+v+W31O1OXTQ0y0EOgoClL6SzdXB378c4EynJci5TglJKzHlSIiOopRuhLq0i+/NgMWNFjNClRhoSfT3A8nAvHu6hFiPYcFf/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABwYBAwQFCP/EAC8QAAEDAgUCBAQHAAAAAAAAAAECAwQFBgAREhMhMUEHFFFhI4HB8AgiM0JxoeH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxESIQQx/9oADAMBAAIRAxEAPwB8ceQ02VOOIQgdSTgzvTxepdHWuNSUifJHG5n8IH+e/wAsC1/1itVOWWhXSKWk6FNKVoKR6EDr955Ys2XQW69UC7JUW6fGHToVZc5fU4JcAZMqKizaiTSffFz1NoS4U2UhzrtMJyQPkPriS214woYpLbdyxN2oAnNxBCNSexI7HrjCpUWNaqdt6WTEeOTQUMzmP8/oYObvgLqdzVB+jtuvxw5oUplGtOsAahngLbufkdnnFY6ewtQZLZW9KS4SOPiZlRP33xvLYviZb8J+N5dD6XHd9tWvSttXQ+vHtiNvOObezuL2v1NGfGr1xWntpccGsZ84qUDcM5ktas5WLVKrtw+I0iNQ4kVmK28oFS0ZkgD9+fYD2x09altQrboUamU1CEMsj8yiOXFd1n3OCj8MsNhNNqkoNjzG4lGvvp54w44wUKORs5sOWn//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUEBgcB/8QALRAAAQMDAwEECwAAAAAAAAAAAQIDEQAEBRIhMUEUUVKBBhMiI0JhcZGh0eH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMhBEESFGH/2gAMAwEAAhEDEQA/AElhnRhs5k0Y4rumCw0hpKphxYjiBJ3K6umKy9pmdfZNbb6ACppyAfKsrxWBzZSNdk3AGyXJ2MzzEU8xNrequwm0Uyi8blail+IPBM9eafHyJLdaI+S7NAKTMUZthQQJAqLbvXIt2w+bdbgbhREmVRzP8qruY/PKWSt151Xi9eBP4q/vwS0FqiY3fDb2iaR+j96oZ/KBxLg0KUG5VKCJ6DzH3owaD1yttxx4oSnaHVfulCW0pyS9Ose98auqBPX5Cs/HFJSXwSUGuy8Jvkn4t6Om61CU6Y+tJbPHJcU4lT70bc6T394rl/Z9mdQhq4eCSgKOyeT5VJYk1Y8cLauz/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcABQECCP/EACgQAAEDAwQCAQQDAAAAAAAAAAECAwQABREGEhMhMUEiBxRRYWJykf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABsRAAICAwEAAAAAAAAAAAAAAAABAiEDERIx/9oADAMBAAIRAxEAPwDqgkAd0Ir1HenmmXbfpG6qQpQK/uXo7J4/e0cpO78JUE/sittXLQ5qHSUJ6Mpxtyet7kUnLYLcd0pB/lkgj+pPqh/Xl6u5uMi1RlLt6OBTrPy2mXjyeUZ40AlIPhXfkCoyZI4Idy8BJzlygysl5XdHZLT1tmwHGNoP3BaIUTnoFtaxkY7GcjI/NXdK1KYEP6X2mRb4ch1uJOiSUJU2C664ZKCst4JBK96wMHHyxnFM9J3AHsfqra3aJi9UyrvFuXOkWx5D6WFwpYkjKN4WNi0FPkYylw9+jjzQBLVZ3L65eNURb0tyWttiPCfgOcSSB8WsJ3Bw53ns7cnIHumrWDTTpi1rwF3lHUqER2WJ1vYjSY0grkxS3zcbnJsQFEEdtpyceD/hVioKlZsyR//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1987,7 +1987,7 @@ CEO of AnantiX</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.916666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.433333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2024,12 +2024,12 @@ CEO of AnantiX</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 45.8k out of 148m users</span>
+                                    <span class="gh">ranked 45.6k out of 148m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">225</div>
+                                        <div class="value">226</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 225 users</div>
+                                <div class="text">Followed by 226 users</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2314,7 +2314,7 @@ CEO of AnantiX</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.63m out of 215m repositories</span>
+                                    <span class="gh">ranked 3.63m out of 207m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -2355,7 +2355,7 @@ CEO of AnantiX</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.97m out of 215m repositories</span>
+                                    <span class="gh">ranked 2.97m out of 207m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2883,7 +2883,7 @@ CEO of AnantiX</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Nov 2024, 17:22:46 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2024, 18:17:10 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
