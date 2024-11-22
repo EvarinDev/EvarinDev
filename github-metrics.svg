@@ -1985,7 +1985,7 @@ CEO of AnantiX</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 45.4k out of 145m users</span>
+                                    <span class="gh">ranked 45.4k out of 149m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">228</div>
                                     </div>
@@ -2105,7 +2105,7 @@ CEO of AnantiX</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.45m out of 145m users</span>
+                                    <span class="gh">ranked 6.45m out of 149m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
@@ -2310,7 +2310,7 @@ CEO of AnantiX</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.79m out of 227m repositories</span>
+                                    <span class="gh">ranked 2.79m out of 229m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -2351,7 +2351,7 @@ CEO of AnantiX</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.09m out of 227m repositories</span>
+                                    <span class="gh">ranked 2.09m out of 229m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
@@ -2879,7 +2879,7 @@ CEO of AnantiX</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Nov 2024, 23:28:09 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2024, 00:18:43 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
