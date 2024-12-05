@@ -1,16 +1,11 @@
 Hi 👋 I am Evarin
 =======================
 
-Back-End & CyberSecurity
+CyberSecurity (Pentester)
 ------------------------
 
-Hi, I’m Evarin, a passionate back-end developer with a focus on building robust, efficient systems, and a strong interest in cybersecurity. With expertise in various back-end technologies and a deep understanding of secure architectures, I aim to deliver high-quality, scalable solutions that prioritize both performance and security. My skills include database management, API development, optimizing server-side performance, and implementing cybersecurity best practices to protect applications and data. Check out my GitHub at EvarinDev to see some of the projects I’ve worked on and how I integrate security into every development challenge.
-
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning XSS, SQL INJECTION
-
-<a href="https://www.github.com/EvarinDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/EvarinDev?logo=github&style=for-the-badge&color=facc15&labelColor=ffffff" /></a>
+* 🧠  I'm learning Reverse Engineer,  Server-Side Vulnerabilities
 
 ### Skills
 
