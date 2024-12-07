@@ -5,7 +5,7 @@ CyberSecurity (Pentester)
 ------------------------
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning Reverse Engineer,  Server-Side Vulnerabilities
+* 🧠  I'm learning Reverse Engineer,  Server-Side Vulnerabilities, Client-Side Vulnerabilities
 
 ### Skills
 
