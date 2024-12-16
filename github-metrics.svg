@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Magmastream-NPM/magmastream</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A user-friendly Lavalink client designed for NodeJS.</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LykosAI/StabilityMatrix</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-Platform Package Manager for Stable Diffusion</div>
@@ -2016,7 +2016,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 45.5k out of 151m users</span>
+                                    <span class="gh">ranked 45.5k out of 147m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">230</div>
                                     </div>
@@ -2136,7 +2136,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.52m out of 151m users</span>
+                                    <span class="gh">ranked 6.52m out of 147m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
@@ -2910,7 +2910,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Dec 2024, 02:18:04 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2024, 03:24:52 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
