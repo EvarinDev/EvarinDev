@@ -1,7 +1,7 @@
 Hi 👋 I am Evarin
 =======================
 
-CyberSecurity (Penetration Tester)
+Jr. Penetration Tester
 ------------------------
 
 * 🌍  I'm based in Thailand
