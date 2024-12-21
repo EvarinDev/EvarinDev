@@ -1,4 +1,4 @@
-<a href="https://evarin.dev/" target="_blank" rel="noreferrer"><img src="https://r2.evarin.dev/assets/svgs/Evarin-Info.svg" alt="Evarin.dev" /></a>
+<a href="https://evarin.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/EvarinDev/EvarinDev/refs/heads/main/Evarin-Info.svg" alt="Evarin.dev" /></a>
 
 ### Skill
 <a href="https://tryhackme.com/r/p/evarindev" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/evarindev.png" alt="TryHackMe Badge" /></a>
